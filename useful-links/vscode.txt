@@ -1,0 +1,2 @@
+Ctrl + Shift + P = Commands
+Ctrl + P = Go to file
