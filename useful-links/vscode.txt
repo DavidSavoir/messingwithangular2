@@ -1,2 +1,4 @@
 Ctrl + Shift + P = Commands
 Ctrl + P = Go to file
+
+https://github.com/johnpapa/vscode-angular2-snippets
